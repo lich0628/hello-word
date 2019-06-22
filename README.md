@@ -1,2 +1,2 @@
 # hello-word
-lean java basic
+learn java basic
